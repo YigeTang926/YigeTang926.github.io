@@ -1,16 +1,9 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: About Me
+subtitle: Good good study, day day up!
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+<!-- I am Yige, or you may know me as Amy. I'm currently a MSc **Statistics** student at *Imperial College London*. My undergraduate studies were at *Fudan University*, where I spent four wonderful years studying **Mathematics and Applied Mathematics**. I am very good at theoretical things about maths and statistics and I am also working on strengthening my coding skills. Now, I am looking for a technical position related to data science, machine learning and deep learning. For more details, please see my [CV](https://YigeTang926.github.io/assets/cv.pdf). -->
 
-- I rock a great mustache
-- I'm extremely loyal to my family
-
-What else do you need?
-
-### My story
-
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](https://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+I like singing, photographing, and doing sports such as table tennis, badminton, biking and swimming. I am outgoing and cheerful, and love to make new frineds. Welcome to make friends with me!
